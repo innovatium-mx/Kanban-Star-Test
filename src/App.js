@@ -10,7 +10,7 @@ import { MainLayout } from "./components/MainLayout";
 import "./App.css";
 import { ThemeContext } from "./Contexts/ThemeContext";
 import { DataProvider } from "./Contexts/DataContext";
-º
+
 function App() {
   // Link del API
   const apiLink = "https://hp0v7t34t8.execute-api.us-east-2.amazonaws.com";
