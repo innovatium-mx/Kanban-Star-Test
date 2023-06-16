@@ -1,0 +1,126 @@
+{
+    "login":{
+        "hello": "Hello",
+        "welcome": "Welcome!",
+        "login-with-credentials": "Log in with your Kanbanize account",
+        "bad-credentials-t": "Failed to log in!",
+        "bad-credentials": "Username or password incorrect, try again please.",
+        "e-mail": "E-mail",
+        "e-mail-placeholder": "yourmail@mail.com",
+        "password": "Password",
+        "domain": "Domain",
+        "domain-placeholder":"domain",
+        "login": "Log in",
+        "WhatDomain": "What is domain?",
+        "DescDomain": "You should find it in your Kanbanize link: https://[DOMAIN].kanbanize.com/"
+    },
+
+    "workspace":{
+        "workspace": "Workspace",
+        "board": "Board: ",
+        "filter": "All cards",
+        "deadline": "Deadline: "
+    },
+
+    "navbar":{
+        "config": "Settings",
+        "logout": "Log out"
+    },
+
+    "settings":{
+        "lang": "Language",
+        "palette": "Color palette",
+        "view": "View",
+        "save": "Save changes",
+        "close": "Don't save"
+    },
+
+    "langcheck":{
+        "en": "EN",
+        "es": "ES"
+    },
+
+    "cardMenu":{
+        "title": "What would you like to do?",
+        "show": "Show",
+        "move": "Move",
+        "update": "Update",
+        "comment": "Comment",
+        "delete": "Delete"
+    },
+    
+    "insertcard":{
+        "card-title": "Enter card title",
+        "card-owner": "Owner",
+        "due-date": "Deadline",
+        "column": "Column",
+        "swimlane": "Swimlane",
+        "description": "Description",
+        "description-placeholder": "Enter card description",
+        "add-card": "Add card",
+        "choose-owner": "None",
+        "choose-workflow": "Backlog",
+        "insert-success": "Oparation result",
+        "insert-message": "The card was successfully added.",
+        "insert-button": "Dismiss",
+        "insert-success-er": "Operation result",
+        "insert-message-er": "The card was not added.",
+        "insert-button-er": "Dismiss",
+        "insert-message-er2": "Cards cannot be added into Timeline Workflows.",
+        "lane": "Lane"
+    },
+
+    "viewcard":{
+        "no-title": "No title",
+        "no-description": "No description",
+        "btn-accept": "Accept",
+        "btn-edit": "Edit card",
+        "card-blocked": "Card is blocked",
+        "no-deadline": "No date"
+    },
+
+    "comments":{
+        "title": "Comments of card",
+        "add": "Add comment",
+        "empty": "Comment can't be empty",
+        "accept": "Accept",
+        "placeholder": "Write your comment here...",
+        "file-input": "  Add file(s)",
+        "file-selected": "  File(s) selected",
+        "error-file": "File or files could not be uploaded, try again.",
+        "error-413": "One or more files are too large",
+        "exit": "Exit"
+    },
+
+    "loading": {
+        "title": "Loading...",
+        "comment": "Your comment is being uploaded"
+    },
+
+    "move": {
+        "title-res": "Everything fine!",
+        "title-err": "Oops!",
+        "title-conf": "Move card",
+        "message-res": "The card was moved",
+        "message-block": "The card can't be moved becasue it is blocked",
+        "message-ac": "The card can't be moved because of an exit criteria",
+        "message-time": "Cards cannot be moved into Timeline Workflows.",
+        "message-err": "The card was not moved",
+        "message-conf": "You are moving this card. Would you like to continue?",
+        "button-close": "Close",
+        "button-accept": "Accept",
+        "button-cancel": "Cancel"
+    },
+
+    "updatecard":{
+        "no-deadline": "No date 🗓️",
+        "no-owner": "None",
+        "btn-accept": "Update card",
+        "btn-cancel": "Cancel",
+        "modal-title": "Update card",
+        "modal-description": "You are updating this card info. Would you like to continue?",
+        "modal-success": "This card was successfully updated",
+        "modal-accept": "Dismiss",
+        "modal-error": "This card was not updated"
+    }
+}

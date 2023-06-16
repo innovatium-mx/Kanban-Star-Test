@@ -1,0 +1,126 @@
+{
+    "login":{
+        "hello": "Hola",
+        "welcome": "¡Bienvenido a las pruebas!",
+        "login-with-credentials": "Ingresa con tu cuenta de Kanbanize",
+        "bad-credentials-t": "Error de inicio de sesión!",
+        "bad-credentials": "Usuario o contraseña incorrectos, intenta de nuevo",
+        "e-mail": "Correo electrónico",
+        "e-mail-placeholder": "tucorreo@mail.com",
+        "password": "Contraseña",
+        "domain": "Dominio",
+        "domain-placeholder":"dominio",
+        "login": "Iniciar sesión",
+        "WhatDomain": "¿Qué es el dominio?",
+        "DescDomain": "En tu enlace de Kanbanize encontrarás esto: https://[DOMINIO].kanbanize.com/"
+    },
+
+    "workspace":{
+        "workspace": "Espacio de trabajo",
+        "board": "Tablero: ",
+        "filter": "Todas las tarjetas",
+        "deadline": "Fecha limite: "
+    },
+
+    "navbar":{
+        "config": "Configuración",
+        "logout": "Cerrar sesión"
+    },
+
+    "settings":{
+        "lang": "Idioma",
+        "palette": "Paleta de colores",
+        "view": "Vista",
+        "save": "Guardar cambios",
+        "close": "Salir sin guardar"
+    },
+
+    "langcheck":{
+        "en": "EN",
+        "es": "ES"
+    },
+
+    "cardMenu":{
+        "title": "¿Qué gustas hacer?",
+        "show": "Consultar",
+        "move": "Mover",
+        "update": "Actualizar",
+        "comment": "Comentar",
+        "delete": "Eliminar"
+    },
+    
+    "insertcard":{
+        "card-title": "Introduce título de la tarjeta",
+        "card-owner": "Propietario",
+        "due-date": "Fecha límite",
+        "column": "Columna",
+        "swimlane": "Carril",
+        "description": "Descripción",
+        "description-placeholder": "Ingrese la descripción de la tarjeta",
+        "add-card": "Añadir tarjeta",
+        "choose-owner": "Ninguno",
+        "choose-workflow": "Backlog",
+        "insert-success": "Resultado de la operación",
+        "insert-message": "La tarjeta fue añadida exitosamente.",
+        "insert-button": "Aceptar",
+        "insert-success-er": "Resultado de la operación",
+        "insert-message-er": "La tarjeta no fue añadida.",
+        "insert-button-er": "Aceptar",
+        "insert-message-er2": "No se pueden añadir tarjetas a los Flujos de Trabajo de tipo Línea del Tiempo.",
+        "lane": "Carril"
+    },
+
+    "viewcard":{
+        "no-title": "Sin título",
+        "no-description": "Sin descripción",
+        "btn-accept": "Aceptar",
+        "btn-edit": "Editar tarjeta",
+        "card-blocked": "Tarjeta bloqueada",
+        "no-deadline": "Sin fecha 🗓️"
+    },
+
+    "comments":{
+        "title": "Comentarios de la tarjeta",
+        "add": "Agregar comentario",
+        "empty": "El comentario no puede estar vacío",
+        "accept": "Aceptar",
+        "placeholder": "Escribe aquí tu comentario...",
+        "file-input": "  Agregar archivo(s)",
+        "file-selected": "  Archivo(s) seleccionado(s)",
+        "error-file": "No se pudo subir el o los archivos, intenta de nuevo",
+        "error-413": "Uno o más archivos son demasiado grandes",
+        "exit": "Salir"
+    },
+
+    "loading": {
+        "title": "Cargando...",
+        "comment": "Tu comentario se está subiendo"
+    },
+
+    "move": {
+        "title-res": "Todo bien!",
+        "title-err": "Ups!",
+        "title-conf": "Mover tarjeta",
+        "message-res": "Se movio la tarjeta",
+        "message-block": "La tarjeta no se puede mover por que está bloqueada",
+        "message-ac": "La tarjeta no se puede mover por un criterio de aceptación",
+        "message-time": "La tarjeta no se puede mover por que está en un Flujo de Trabajo de tipo Línea del Tiempo",
+        "message-err": "La tarjeta no fue movida",
+        "message-conf": "Estás seguro que deseas mover la tarjeta?",
+        "button-close": "Cerrar",
+        "button-accept": "Aceptar",
+        "button-cancel": "Cancelar"
+    },
+
+    "updatecard":{
+        "no-deadline": "Sin fecha 🗓️",
+        "no-owner": "Ninguno",
+        "btn-accept": "Actualizar tarjeta",
+        "btn-cancel": "Cancelar",
+        "modal-title": "Actualizar tarjeta",
+        "modal-description": "Está actualizando la información de esta tarjeta. ¿Desea continuar?",
+        "modal-success": "Esta tarjeta ha sido actualizada exitosamente",
+        "modal-accept": "Aceptar",
+        "modal-error": "Esta tarjeta no ha sido actualizada"
+    }
+}

@@ -1,0 +1,8 @@
+.scrolling-wrapper {
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.pre-btn {
+  transform: rotate(180deg);
+}
